@@ -2,8 +2,6 @@
 
 🎓 **I'm a university student passionate about Frontend Development.**
 
----
-
 🌱 **Currently Learning:**
 
 - 🌐 Vanilla JS
@@ -42,15 +40,5 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 🌟 **Thanks for visiting my profile!** 🌟
